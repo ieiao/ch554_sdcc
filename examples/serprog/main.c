@@ -1,9 +1,9 @@
 ﻿/********************************** (C) COPYRIGHT *******************************
 * File Name          : CDC.C
-* Author             : WCH
+* Author             : ieiao
 * Version            : V1.0
 * Date               : 2017/03/01
-* Description        : CH554 as CDC device to serial port, select serial port 1
+* Description        : CH552 serprog implementation for use with flashrom
 *******************************************************************************/
 #include <stdint.h>
 #include <stdio.h>

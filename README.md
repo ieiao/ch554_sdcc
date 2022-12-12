@@ -1,5 +1,7 @@
 # CH554 software development kit for SDCC ![Linux build](https://github.com/Blinkinlabs/ch554_sdcc/workflows/Linux%20build/badge.svg)
 
+> modifications made in this continuation project are, unless otherwise specified, licensed under 3-Clause BSD.
+
 ![image](https://raw.githubusercontent.com/Blinkinlabs/ch554_sdcc/master/documentation/devboard.png)
 
 This is a port of the CH554 SDK, from Keil C51 to SDCC.
